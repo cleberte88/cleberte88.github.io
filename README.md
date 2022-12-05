@@ -1,2 +1,2 @@
 # cleberte88.github.io
-Currículo do Jornada Dev
+Cleberte Rodrigues CV
